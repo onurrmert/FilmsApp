@@ -1,5 +1,6 @@
 # FilmsApp
-This application is an application that provides movie information and downloads. <br>
+This application is an application that provides movie information and downloads. <br><br>
+The application first gets the data with retrofit, saves the data to the local database with SQLiteOpenHelper. Then it reads from the local database and displays it to the user.<br><br>
 Used technologies: 
 <br>-Retrofit, 
 <br>-SQLiteOpenHelper, 
